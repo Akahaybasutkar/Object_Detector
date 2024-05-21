@@ -4,28 +4,36 @@
 ## Key Features:
 
 Automatic Object Detection
+
 Summary Report
+
 Detailed Object Locations
+
 Customizable Model (Optional)
 
 
 ## Prerequisites:
 
 Python 3.x
+
 Keras
+
 TensorFlow
+
 OpenCV
 
 
 ## Installation:
 
 Clone this repository.
+
 Install the required libraries: pip install keras tensorflow opencv-python
 
 
 ## Usage:
 
 Replace /content/objdec.jpg in the code with the path to your image.
+
 Run the script.
 
 ## Limitations:
