@@ -27,3 +27,7 @@ Install the required libraries: pip install keras tensorflow opencv-python
 
 Replace /content/objdec.jpg in the code with the path to your image.
 Run the script.
+
+## Limitations:
+
+It cannot detect objects which appear large in the image and can detect only a few objects in the image.
